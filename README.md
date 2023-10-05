@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/aaronroman/aaronroman/cfbd7eafa5b495441d874222ec9248365db7cd9b/background_ai_generated.png">
+ ![background](https://raw.githubusercontent.com/aaronroman/aaronroman/cfbd7eafa5b495441d874222ec9248365db7cd9b/background_ai_generated.png)
+
 ### About me
 Co-Founder and Head of Data science at <a href="https://danelfin.com">Danelfin</a> | Enthusiastic about #ML #Python and #MLOps | Exploring #LLM and AI breakthroughs
 
