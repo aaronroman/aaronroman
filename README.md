@@ -1,6 +1,12 @@
-### Hi there 👋
+### About me
+Co-Founder and Head of Data science at <a href="https://danelfin.com">Danelfin</a> | Enthusiastic about #ML #Python and #MLOps | Exploring #LLM and AI breakthroughs
 
-<!--
+### How to reach me
+<a href="https://linkedin.com/in/aaronroman"><img src="https://img.shields.io/badge/-aaronroman-gray?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/aaronroman/"></a>
+<a href="https://twitter.com/aaronroman"><img src="https://img.shields.io/badge/-aaronroman-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/aaronroman"></a>
+
+
+<!--https://twitter.com/aaronroman
 **aaronroman/aaronroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
